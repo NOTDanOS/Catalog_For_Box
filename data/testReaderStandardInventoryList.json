@@ -1,0 +1,11 @@
+{"inventoryList": [
+  {
+    "date": "2021-12-09",
+    "quantity": 200,
+    "shipping": "Rio de Janeiro",
+    "purpose": "Tester-1 boxes to Rio de Janeiro",
+    "companyName": "Tester-1",
+    "design": [null]
+  }
+]
+}

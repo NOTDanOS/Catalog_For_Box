@@ -1,0 +1,34 @@
+{"inventoryList": [
+    {
+        "date": "2023-02-10",
+        "quantity": 20,
+        "purpose": "",
+        "companyName": "ricardo",
+        "L&RDensity": 0,
+        "F&BMaterial": "",
+        "T&BDensity": 200,
+        "L&RSheet": "",
+        "T&BMaterial": "",
+        "shipping": "utah",
+        "F&BDensity": 0,
+        "L&RMaterial": "",
+        "F&BSheet": "",
+        "T&BSheet": ""
+    },
+    {
+        "date": "2023-02-01",
+        "quantity": 2,
+        "purpose": "ddhd",
+        "companyName": "wdw",
+        "L&RDensity": 100,
+        "F&BMaterial": "",
+        "T&BDensity": 0,
+        "L&RSheet": "",
+        "T&BMaterial": "",
+        "shipping": "indo",
+        "F&BDensity": 0,
+        "L&RMaterial": "",
+        "F&BSheet": "",
+        "T&BSheet": ""
+    }
+]}

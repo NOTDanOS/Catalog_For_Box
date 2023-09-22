@@ -1,0 +1,34 @@
+{"inventoryList": [
+    {
+        "date": "2020-02-02",
+        "quantity": 10,
+        "purpose": "Testing",
+        "companyName": "Test",
+        "L&RDensity": 100,
+        "F&BMaterial": "MEDIUM",
+        "T&BDensity": 100,
+        "L&RSheet": "SINGLE",
+        "T&BMaterial": "CRAFT",
+        "shipping": "Testing Location",
+        "F&BDensity": 250,
+        "L&RMaterial": "CRAFT",
+        "F&BSheet": "DOUBLE",
+        "T&BSheet": "DOUBLE"
+    },
+    {
+        "date": "2022-12-22",
+        "quantity": 100,
+        "purpose": "Testing2",
+        "companyName": "Test2",
+        "L&RDensity": 0,
+        "F&BMaterial": "",
+        "T&BDensity": 0,
+        "L&RSheet": "",
+        "T&BMaterial": "",
+        "shipping": "Testing Location 2",
+        "F&BDensity": 0,
+        "L&RMaterial": "",
+        "F&BSheet": "",
+        "T&BSheet": ""
+    }
+]}
